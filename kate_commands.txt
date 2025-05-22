@@ -1,0 +1,101 @@
+KATE ASSISTANT COMMANDS REFERENCE
+================================
+
+1. WAKE WORD & SLEEP
+------------------
+- "Hey Kate" - Activates the assistant
+- "go to sleep" - Puts KATE to sleep
+- "wake up" - Wakes KATE up
+- "i'm tired" - Special shutdown with fun responses:
+  * Before midnight: "You're tired bro? It's not even midnight yet! You're weird..."
+  * After midnight: "Damn man, you're one heck of a pain in the ass dude! See you tomorrow to make the world a better place!"
+
+2. EMOTIONAL RESPONSES
+-------------------
+- "I'm bored" - Gets a fun fact or joke
+- "I'm happy" - Gets a positive response
+- "I'm frustrated" - Gets a comforting response
+- "I'm tired" - Gets a suggestion for a break
+
+3. OPEN APPS & FOLDERS
+--------------------
+- "open [app]" - Opens apps like:
+  * chrome, word, excel, powerpoint, outlook, whatsapp, vscode
+- "open [folder]" - Opens folders like:
+  * downloads, documents, pictures
+
+4. SYSTEM CONTROLS
+----------------
+- "volume up/down" - Changes volume
+- "mute" - Mutes sound
+- "bluetooth on/off" - Toggles Bluetooth
+- "wifi on/off" - Toggles WiFi
+- "sleep" - Puts PC to sleep
+- "restart" - Restarts PC
+- "shutdown" - Shuts down PC
+- "system info" - Shows PC info
+
+5. KEYBOARD SHORTCUTS
+-------------------
+- "next tab" - Switches to next tab
+- "last tab" - Switches to previous tab
+- "close tab" - Closes current tab
+- "new tab" - Opens new tab
+- "screenshot" - Takes screenshot
+- "copy" - Copies text
+- "paste" - Pastes text
+
+6. NOTES
+-------
+- "start notes" - Opens Notepad for dictation
+- "start notes in word" - Opens Word for dictation
+- "stop notes" - Saves and closes note
+
+7. MEDIA
+-------
+- "play [song] on youtube" - Plays on YouTube
+- "play [song] on spotify" - Plays on Spotify
+
+8. SEARCH
+--------
+- "search [query]" - Searches on Google
+- "search [query] in chatgpt" - Searches on ChatGPT
+
+9. ACTIVITY TRACKING
+-----------------
+- "what did i do" - Shows recent activities
+- "what have i done" - Shows activity summary
+- "my activities" - Lists recent actions
+- "recent activity" - Shows activity log
+
+10. TIME-BASED SUGGESTIONS
+-----------------------
+Morning:
+- "Would you like to start your day with some energizing music?"
+- "How about checking your schedule for today?"
+- "Would you like to hear the weather forecast?"
+
+Afternoon:
+- "Time for a productivity playlist?"
+- "Would you like to take a short break?"
+- "How about some background music while you work?"
+
+Evening:
+- "Would you like some relaxing music?"
+- "How about a summary of your day?"
+- "Would you like to plan for tomorrow?"
+
+11. CONTEXTUAL SUGGESTIONS
+-----------------------
+- When opening VS Code/Cursor: "Would you like me to play some coding music while you work?"
+- When opening Office apps: "Would you like me to help you with your document?"
+
+12. INTERACTION
+------------
+- "yes/sure/okay" - Positive response
+- "no/nope/nah" - Negative response
+- "help" - Shows this list
+- "what can you do" - Lists capabilities
+
+Note: Speak naturally - KATE will understand simple commands.
+If unsure, say "help" to see what you can do. 
